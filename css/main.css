@@ -13,8 +13,27 @@ html {
   text-size-adjust: 100%;
 
   font-family: sans-serif, 'Rammetto One';
+  font-family: 'Comfortaa', cursive;
+  font-family: 'Gravitas One', cursive;
+  font-family: 'Open Sans', sans-serif;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+body {
+
+}
+
+Watermelon {
+
+}
+
+Starfruit {
+
+}
+
+Persimmon {
+
 }
