@@ -27,13 +27,55 @@ body {
 }
 
 Watermelon {
+  font-family: cursive;
+  background-color: inherit;
+  color: inherit;
+}
 
+Watermelon-T {
+  font-family: cursive;
+  background-color: inherit;
+  color: inherit;
+}
+
+Watermelon-P {
+  font-family: cursive;
+  background-color: inherit;
+  color: inherit;
 }
 
 Starfruit {
+  font-family: cursive;
+  background-color: inherit;
+  color: inherit;
+}
 
+Starfruit-T {
+  font-family: cursive;
+  background-color: inherit;
+  color: inherit;
+}
+
+Starfruit-P {
+  font-family: cursive;
+  background-color: inherit;
+  color: inherit;
 }
 
 Persimmon {
+  font-family: cursive;
+  background-color: inherit;
+  color: inherit;
+}
 
+Persimmon-T {
+  font-family: cursive;
+  background-color: inherit;
+  color: inherit;
+}
+
+Persimmon-P {
+  font-family: cursive;
+  background-color: inherit;
+  color: inherit;
 }
