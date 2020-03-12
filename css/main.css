@@ -6,16 +6,10 @@
 
 html {
   box-sizing: border-box;
-
   -moz-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
-
-  font-family: sans-serif, 'Rammetto One';
-  font-family: 'Comfortaa', cursive;
-  font-family: 'Gravitas One', cursive;
-  font-family: 'Open Sans', sans-serif;
 }
 
 *, *::before, *::after {
@@ -23,59 +17,33 @@ html {
 }
 
 body {
-
+  margin: 0;
 }
 
-Watermelon {
-  font-family: cursive;
-  background-color: inherit;
-  color: inherit;
+.watermelon {
+  font-family: "Rammetto One", cursive;
 }
 
-Watermelon-T {
-  font-family: cursive;
-  background-color: inherit;
-  color: inherit;
+.star {
+  font-family: "Gravitas One", cursive;
 }
 
-Watermelon-P {
-  font-family: cursive;
-  background-color: inherit;
-  color: inherit;
+.per {
+  font-family: Comfortaa, cursive;
 }
 
-Starfruit {
-  font-family: cursive;
-  background-color: inherit;
-  color: inherit;
+p {
+  font-family: "Open Sans", sans-serif;
 }
 
-Starfruit-T {
-  font-family: cursive;
-  background-color: inherit;
-  color: inherit;
+.bcw {
+  background-color: #e97065;
 }
 
-Starfruit-P {
-  font-family: cursive;
-  background-color: inherit;
-  color: inherit;
+.bcs {
+  background-color: #fbd25e;
 }
 
-Persimmon {
-  font-family: cursive;
-  background-color: inherit;
-  color: inherit;
-}
-
-Persimmon-T {
-  font-family: cursive;
-  background-color: inherit;
-  color: inherit;
-}
-
-Persimmon-P {
-  font-family: cursive;
-  background-color: inherit;
-  color: inherit;
+.bcp {
+  background-color: #e86033;
 }
